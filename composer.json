@@ -1,0 +1,12 @@
+{
+    "name": "technicalead/vendor-php-namespace-secondary",
+    "description": "This package serves to register the vendor name `technicalead` of packages at packagist.org.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Robert Wąchal",
+            "email": "robert.wachal@technicalead.studio"
+        }
+    ]
+}
